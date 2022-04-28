@@ -2,6 +2,8 @@
 
 Hi there! I'm Terrence Calzada a fullstack web developer. I utilized ReactJs and Laravel API to deliver complex web app projects. Once upon a time I hated javascript because of its strange syntax, when I got a software development job with react, I begin to appreciate javascript. Now not only for web but I also use javascript to make mobile apps with React Native and game development with Raylib nodejs binding.
 
+[![Facebook](https://img.shields.io/twitter/follow/tezadaconnect?color=light-green&label=Twitter&logo=twitter&style=flat-square)](https://twitter.com/TezadaConnect)
+
 ## Portfolio
 
 - My see my portfolio website [here](http://tezada-dev.herokuapp.com/).
