@@ -22,4 +22,4 @@ At first I use Javascript in Raylib but i realize C++ is more powerful in games 
 
 ## What I do in my free time?
 
-Well, I enjoy cycling with my colleagues and friends and if they are not available, I do game programming instead. I do play games back then but I realize that creating my own game (world) is more enjoyable.
+I enjoy cycling with my coworkers and friends, and when they are not available, I do game programming instead. I used to play video games, but now I realize that making my own game (world) is more fun. 
