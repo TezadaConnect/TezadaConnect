@@ -6,7 +6,7 @@ Hi there! I'm Terrence Calzada a fullstack web developer. I utilized ReactJs and
 
 ## Portfolio
 
-- My see my portfolio website [here](http://tezada-dev.herokuapp.com/).
+- My see my portfolio website [here](https://tezada-portfolio.vercel.app).
 
 ## Frameworks, Libraries, Languages, Database and OS.
 
